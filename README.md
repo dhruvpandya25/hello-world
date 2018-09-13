@@ -2,4 +2,4 @@
 
 Dhruv Pandya
 
-Trying to push update in GitHub.com
+Trying to push update in GitHub
